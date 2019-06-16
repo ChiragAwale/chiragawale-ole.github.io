@@ -176,7 +176,7 @@
   vagrant up
   ```
 #### Q22: What do I do if I cannot create a dummy account? And I cannot sync my community with the nation.
-  **Note: Before trying the steps below, make sure your planet is up to date.**
+ + **Note: Before trying the steps below, make sure your planet is up to date.**
   ```
   cd planet
   git pull
